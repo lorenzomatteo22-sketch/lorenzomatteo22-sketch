@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**lorenzomatteo22-sketch/lorenzomatteo22-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🖥️ System Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Categories | Details                          |
+|------------|----------------------------------|
+| **OS**     | Windows 11 Pro                   |
+| **CPU**    | Intel Core i5 11400F             |
+| **GPU**    | NVIDIA GeForce RTX 4060          |
+| **RAM**    | 32 GB 3200 MHz                   |
+
+---
+
+## 👤 About Me
+
+**Alias:** kayros  
+**Role:** Malware Analyst  
+**Speciality:** Network traffic analysis with Wireshark, scripting tools for automation, malware reversing.
+
+---
+
+## 🧠 Languages
+
+- Python  
+- Lua *(in progress)*
