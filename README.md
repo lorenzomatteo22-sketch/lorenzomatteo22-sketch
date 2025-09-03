@@ -1,26 +1,20 @@
-  hi
-
-
- 🖥️ System Info
-
- Categories | Details                          
-------------|----------------------------------|
- OS     Windows 11 Pro                   
- CPU    Intel Core i5 11400F             
- GPU    NVIDIA GeForce RTX 4060          
- RAM    32 GB 3200 MHz                   
-
-
-
-## 👤 About Me
-
-**Alias:** kayros  
-**Role:** Malware Analyst  
-**Speciality:** Network traffic analysis with Wireshark, scripting tools for automation, malware reversing.
+<p align="center">
+  <img src="https://i.imgur.com/0y0y0y0.png" width="200" /><br>
+  <b>Imkayros</b> <br>
+  <sub>🔍 Malware Analyst | 🛡️ Network traffic </sub>
+</p>
 
 ---
 
-## 🧠 Languages
+```txt
+Hello 🫵
 
-- Python  
-- Lua *(in progress)*
+OS      : Windows 11 Pro
+CPU     : Intel Core i5 11400f
+GPU     : NVIDIA GeForce RTX 4060
+RAM     : 32 GB 3200MHz
+
+Alias   : kayros
+Role    : Malware Analyst
+Tools   : Wireshark, scripting, reversing
+Langs   : Python
