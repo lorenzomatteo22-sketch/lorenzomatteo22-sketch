@@ -1,5 +1,4 @@
-# 👋 Hi
-
+# 👋 hi
 ---
 
 ## 🖥️ System Info
