@@ -1,16 +1,16 @@
-# 👋 hi
----
+  hi
 
-## 🖥️ System Info
 
-| Categories | Details                          |
-|------------|----------------------------------|
-| **OS**     | Windows 11 Pro                   |
-| **CPU**    | Intel Core i5 11400F             |
-| **GPU**    | NVIDIA GeForce RTX 4060          |
-| **RAM**    | 32 GB 3200 MHz                   |
+ 🖥️ System Info
 
----
+ Categories | Details                          
+------------|----------------------------------|
+ OS     Windows 11 Pro                   
+ CPU    Intel Core i5 11400F             
+ GPU    NVIDIA GeForce RTX 4060          
+ RAM    32 GB 3200 MHz                   
+
+
 
 ## 👤 About Me
 
